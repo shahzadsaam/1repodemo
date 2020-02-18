@@ -1,1 +1,2 @@
 this is exmample for smart git add file
+add for smart git online
