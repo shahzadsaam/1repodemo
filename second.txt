@@ -1,2 +1,4 @@
 add new file for just for tsts
 i add for online for test git pull in terminal
+
+this change onlie for smartgit 
