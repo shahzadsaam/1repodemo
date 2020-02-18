@@ -1,1 +1,2 @@
 add first file for remoter repostary clone in termal 
+working is complate and don colone form git hub don
